@@ -104,23 +104,6 @@ This analysis uses EDA, regression, and clustering to provide actionable insight
 | `Scikit-Learn` | Regression, clustering |
 | `Jupyter Notebook` | Interactive analysis |
 | `Excel` | Initial auditing |
-
----
-
-## 📁 Project Structure
-
-```
-
-car-pricing-analysis/
-├── data/                # Dataset (Dataset.xlsx)
-├── notebooks/           # Jupyter Notebook with full analysis
-├── visuals/             # Charts & graphics
-├── README.md            # Project overview
-├── requirements.txt     # Python dependencies
-└── .gitignore
-
-````
-
 ---
 
 ## ⚙️ How to Run This Project
